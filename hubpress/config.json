@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kai-cn",
-    "repositoryName": "kai-cn.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kai-cn","repositoryName":"kai-cn.github.io","branch":"master"},"site":{"url":"https://kai-cn.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//kai-cn.github.io/themes/Casper"}}
